@@ -9,7 +9,7 @@ public class Main {
         int[] arrays1 = arraysMethod.printingInMainMethod();
 
 
-       System.out.println(arrays1);
+       System.out.println( arrays1);
      // System.out.println(arraysMethod.printingInMainMethod());   //doubt address is not same
 
         for(int i=0; i < arrays1.length;i++)
