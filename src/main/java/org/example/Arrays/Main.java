@@ -14,7 +14,7 @@ public class Main {
 
         for(int i=0; i < arrays1.length;i++)
         {
-            System.out.println( arrays1[i] );
+            System.out.println( arrays1[i]);
         }
     }
 }
