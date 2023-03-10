@@ -8,6 +8,8 @@ public class Main {
 
 
        System.out.println( arrays1);
+             System.out.println( arrays1);
+        
 
        System.out.println(arraysMethod.printingInMainMethod());   //doubt address is not same
         //because everytime we calling method ...it creating new array in ArraysMethod
