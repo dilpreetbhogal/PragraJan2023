@@ -1,4 +1,4 @@
-package org.example.feb14;
+package Feb14;
 
 public class Vehicle {
 

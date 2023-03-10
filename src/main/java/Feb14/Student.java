@@ -1,4 +1,4 @@
-package org.example.feb14;
+package Feb14;
 
 public class Student {
     String name;
@@ -21,9 +21,10 @@ public class Student {
         this(name,phoneNumber,0,0,0);
     }
 
-    public Student(String phoneNumber)
+    public Student(String phoneNumber)          //constructor chaining
     {
-        this(phoneNumber,"null");
+
+        this(phoneNumber,"null");      // this constructor is calling upper and upper calling most upper
     }
 
     public Student() {

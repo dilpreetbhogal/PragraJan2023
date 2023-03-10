@@ -1,4 +1,4 @@
-package org.example.feb14;
+package Feb14;
 
 public class Main {
 
@@ -18,8 +18,8 @@ public class Main {
 
          System.out.println(obj1.name +" total marks is  "  + obj1.totalMarks());
          System.out.println(obj2.name +" total marks is  "  + obj2.totalMarks());
-         System.out.println(obj4.name +" total marks is  "  + obj3.totalMarks());
-         System.out.println(obj5.name +" total marks is  "  + obj4.totalMarks());
+         System.out.println(obj4.name +" total marks is  "  + obj4.totalMarks());
+         System.out.println(obj5.name +" total marks is  "  + obj5.totalMarks());
 
 
     }
